@@ -1,5 +1,5 @@
 # Readme
-It is a low-level data encrypter which work by c#, just uses a basic char list to cover or uncover your data input. Its important that script just made for fun and educational purposes. But if you still want to use it in real life situations, sure you can, truely its better than forward your data in plain text. Thanks.
+It is a low-level data encrypter which work by c#, just uses a basic char list to cover or uncover your data input. Its important that script just made for fun and educational purposes. But if you still want to use it in real life situations, sure you can, truely its better than forward your data in plain text, but it may act unwanted if your data contains char which is not contained by scripts char list, check it first. Thanks.
  
 
 ### Prerequisites
