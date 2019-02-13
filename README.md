@@ -1,5 +1,5 @@
 # Readme
-It is a low-level data encrypter which work by c#, just uses a basic char list to cover or uncover your data input.Its important that script just made for fun and educational purposes. But if you still want to use it in real life situations, sure you can, truely its better than forward your data in plain text. Thanks.
+It is a low-level data encrypter which work by c#, just uses a basic char list to cover or uncover your data input. Its important that script just made for fun and educational purposes. But if you still want to use it in real life situations, sure you can, truely its better than forward your data in plain text. Thanks.
  
 
 ### Prerequisites
@@ -12,7 +12,7 @@ You can just run the script with terminal, or you can copy-paste it into a IDE l
 
 ## Development and Features
 
-The scripts on github which belongs to me is just for fun and to help novices that they can understand how-to. May be , can work on and upgrade this script when i have some free time. If i can, features will be added i think is;
+The scripts on github which belongs to me is just for fun and to help novices that they can understand how-to. May be, i can work on and upgrade this script when i have some free time. If i can, features will be added i think is;
 
 ```
 
